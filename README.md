@@ -1,6 +1,6 @@
 # matlab-dwm
 
-Mex files to control the Desktop Window Manager on Windows.
+MEX files to control the Desktop Window Manager on Windows.
 
 ## Requirements
 
